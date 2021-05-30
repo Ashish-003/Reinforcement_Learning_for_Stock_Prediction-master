@@ -13,7 +13,8 @@ Then when training finishes (minimum 200 episodes for results):
 python evaluate.py ^GSPC_2011 model_ep1000
 ````
 To fetch csv files 
-run in the yahoo api directory
+run 
 ```
 python3 main.py
 ```
+in the yahoo api directory
