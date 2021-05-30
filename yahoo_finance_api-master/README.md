@@ -12,14 +12,10 @@ This command returns a dataframe which can be further modified to add new column
 tata_power = YahooFinance('TATAPOWER.NS', result_range='1mo', interval='15m', dropna='True').result
 ```
 
-
-### Demo
-![Alt Text](/res/demo.gif)
-
 ## Installation
 
 ``` bash
-git clone https://github.com/mayankwadhwa/yahoo_finance_api.git
+git clone https://github.com/Ashish-003/Reinforcement_Learning_for_Stock_Prediction-master.git
 cd yahoo_finance_api
 python setup.py install
 ```
