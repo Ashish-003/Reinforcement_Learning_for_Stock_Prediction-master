@@ -1,8 +1,7 @@
 # Yahoo Finance Python API
 
-Due to rampant deprecation of all the stocks api like pandas_datareader etc, i have to created my own based on the yahoo api v8
 
-The best thing about this api is that it support **Intraday Data** upto 1 minute granularity which a lots of free api doesn't support
+This api supports **Intraday Data** upto 1 minute granularity which a lots of free api doesn't support
 
 ## Usage
 
